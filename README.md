@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862" width="400" alt="Animated Pixel Art">
-  <h1>Hi, I'm Ricardo Tovar! (aka RickyUI) 👋</h1>
+  <h1>Hi, I'm Ricardo Tovar! 👋</h1>
   <h3>AI Engineer | Co-Founder @ MART Automations | Systems Engineering Student 💻</h3>
 </div>
 
