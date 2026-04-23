@@ -10,7 +10,6 @@
 * **Current Focus:** Designing and building RAG systems, language agents, and end-to-end AI automation pipelines as the Co-Founder and Technical Lead at MART Automations.
 * **Academic Background:** Currently pursuing a Bachelor's Degree in Systems and Computing Engineering at Universidad Tecnológica de Panamá.
 * **Tech Stack:** I specialize in backend development and AI integration using Python, FastAPI, LangChain, n8n, and APIs like OpenAI and Claude.
-* **Beyond the Keyboard:** When I'm not coding, I am the Team Captain of Top Ultimate Panamá, currently preparing for the World Ultimate Club Championship in Ireland.
 * **Languages:** Native Spanish speaker, fluent in English (B2), and actively improving my French (B1/B2). 
 
 ### 🛠️ My Arsenal
