@@ -47,7 +47,7 @@ The part I like most. Materials are public.
 
 ### 🚀 Projects
 
-* **[muse](https://github.com/rtovardev/muse)** — an ideation skill for Claude Code that dreams up cross-domain ideas from your own memory plus live web signals, then executes the one you pick. MIT.
+* **[ricardo-card](https://github.com/rtovardev/ricardo-card)** — my digital contact card, live at [ricardo-card.vercel.app](https://ricardo-card.vercel.app). Plain HTML/CSS/JS, no build step, bilingual, NFC-ready.
 * **[FinWise](https://github.com/rtovardev/finwise)** — FastAPI + Gradio for querying financial PDFs in natural language. Full RAG pipeline with semantic chunking, FAISS indexing and source-referenced answers.
 * **[rtovar-aios](https://github.com/rtovardev/rtovar-aios)** — a template for students who want to run their own AI operating system. MIT.
 
