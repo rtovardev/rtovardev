@@ -38,18 +38,22 @@
 
 The part I like most. Materials are public.
 
+All the material lives in one place: **[rtovardev/talks](https://github.com/rtovardev/talks)**.
+
 | When | What | Where |
 |---|---|---|
-| Aug 2026 | Introductory AI workshop | IEEE InnovaTech Congress, Universidad Interamericana de Panamá |
-| Jul 2026 | *From chatbot to personal assistant* | FISC, UTP — for a delegation from Universidad Peruana de Ciencias Aplicadas |
-| Jun 2026 | [Build your first agent with LangChain](https://github.com/rtovardev/taller-langchain-agentes) | EurusConf 2026, Python Edition |
-| Jun 2026 | [Prompting and agent design](https://github.com/rtovardev/taller-prompting-utp) | Universidad Tecnológica de Panamá |
+| Aug 2026 | [Introductory AI workshop](https://github.com/rtovardev/talks/tree/main/innovatech-ieee-workshop) | IEEE InnovaTech Congress, Universidad Interamericana de Panamá |
+| Jul 2026 | [*From chatbot to personal assistant*](https://github.com/rtovardev/talks/tree/main/ia-education-program) | FISC, UTP — for a delegation from Universidad Peruana de Ciencias Aplicadas |
+| Jun 2026 | [Build your first agent with LangChain](https://github.com/rtovardev/talks/tree/main/eurusconf-langchain) | EurusConf 2026, Python Edition |
+| Jun 2026 | [Prompting and agent design](https://github.com/rtovardev/talks/tree/main/utp-workshop) | Universidad Tecnológica de Panamá |
 
 ### 🚀 Projects
 
 * **[ricardo-card](https://github.com/rtovardev/ricardo-card)** — my digital contact card, live at [ricardo-card.vercel.app](https://ricardo-card.vercel.app). Plain HTML/CSS/JS, no build step, bilingual, NFC-ready.
 * **[FinWise](https://github.com/rtovardev/finwise)** — FastAPI + Gradio for querying financial PDFs in natural language. Full RAG pipeline with semantic chunking, FAISS indexing and source-referenced answers.
 * **[rtovar-aios](https://github.com/rtovardev/rtovar-aios)** — a template for students who want to run their own AI operating system. MIT.
+* **[aios-control-panel](https://github.com/rtovardev/aios-control-panel)** — a local-first, read-only dashboard over an AI operating system: memory graph, agents, assistants and operations. Vite + TypeScript with a Python backend.
+* **[talks](https://github.com/rtovardev/talks)** — every workshop I've given, open: slides, exercise code and handouts.
 
 ### 📫 Let's connect
 
