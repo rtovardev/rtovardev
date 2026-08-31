@@ -58,13 +58,7 @@ All the material lives in one place: **[rtovardev/talks](https://github.com/rtov
 ### 📫 Let's connect
 
 <div align="center">
-  <a href="mailto:rtovarurbina@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/ricardotovar-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/rtovardev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://martautomations.com"><img src="https://img.shields.io/badge/MART%20Automations-0D2040?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MART Automations"></a>
 </div>
-
-<p align="center">
-  <br>
-  <i>Off the keyboard I captain a national champion ultimate frisbee team. Panama 🇵🇦, heading to WUCC 2026.</i>
-</p>
