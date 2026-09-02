@@ -9,7 +9,7 @@
 ### 👾 About me
 
 * **What I do:** Co-Founder and Technical Lead at **MART Automations**, where we build AI automations for companies in Panama. RAG systems, agents, and pipelines that have to survive real data.
-* **What I'm studying:** Bachelor's in Systems and Computing Engineering at **Universidad Tecnológica de Panamá**, third year.
+* **What I'm studying:** Systems Engineering.
 * **What I'm into:** the unglamorous half of AI engineering. Evals, failure modes, cost per run, and what happens on day two.
 * **Languages:** Spanish (native) · English (B2) · French (B1)
 
