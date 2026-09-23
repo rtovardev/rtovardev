@@ -36,24 +36,34 @@
 
 ### 🎤 Talks and workshops
 
-The part I like most: turning AI engineering into practical workshops. I publish
-only the resources intended for attendees. Slide decks, speaker notes, and source
-materials may remain private.
+I teach the engineering ideas behind useful AI systems, then give people a small
+exercise they can run and adapt for their own study. Each talk below has its own
+public resource repository with a Colab notebook, PDF summary, workshop brief,
+and usage notice.
 
 | When | What | Where |
 |---|---|---|
 | Sep 2026 | [Build AI agents with Pydantic AI](https://github.com/rtovardev/taller-agentes-pydantic-ai-fisc-2026) | FISC AI Agents Hackathon, UTP |
+| Aug 2026 | [The AI fundamentals that do not expire](https://github.com/rtovardev/taller-fundamentos-ia-innovatech-ieee) | IEEE InnovaTech Congress, Universidad Interamericana de Panamá |
+| Jul 2026 | [From chatbot to personal assistant](https://github.com/rtovardev/charla-chatbot-asistente-personal-utp) | FISC, UTP — delegation from Universidad Peruana de Ciencias Aplicadas |
+| Jun 2026 | [Build your first agent with LangChain](https://github.com/rtovardev/taller-langchain-agentes) | EurusConf 2026, Python Edition |
+| Jun 2026 | [Prompting and AI agent design](https://github.com/rtovardev/taller-prompting-utp) | Universidad Tecnológica de Panamá |
 
-Workshop resources are copyrighted and licensed for the use described in each
-repository. Please do not redistribute, modify, or reuse them without permission.
+The FISC workshop goes from tools, MCP, skills, and memory to a working Pydantic AI
+agent. InnovaTech connects context and grounding to an AI workspace. The UTP talk
+for the Peruvian delegation shows how an academic workflow grows from a chatbot
+into an assistant. EurusConf takes a LangChain agent from Colab toward a local
+project. The earlier UTP workshop covers prompt design and the first agent loop.
+
+The public repositories contain participant resources. My slides and speaker
+notes are separate. Each repository explains its usage terms; permissions already
+granted for older CC BY 4.0 versions remain in effect for those versions.
 
 ### 🚀 Projects
 
-* **[ricardo-card](https://github.com/rtovardev/ricardo-card)** — my digital contact card, live at [ricardo-card.vercel.app](https://ricardo-card.vercel.app). Plain HTML/CSS/JS, no build step, bilingual, NFC-ready.
 * **[FinWise](https://github.com/rtovardev/finwise)** — FastAPI + Gradio for querying financial PDFs in natural language. Full RAG pipeline with semantic chunking, FAISS indexing and source-referenced answers.
 * **[rtovar-aios](https://github.com/rtovardev/rtovar-aios)** — a template for students who want to run their own AI operating system. MIT.
-* **[aios-control-panel](https://github.com/rtovardev/aios-control-panel)** — a local-first, read-only dashboard over an AI operating system: memory graph, agents, assistants and operations. Vite + TypeScript with a Python backend.
-* **[taller-agentes-pydantic-ai-fisc-2026](https://github.com/rtovardev/taller-agentes-pydantic-ai-fisc-2026)** — public attendee resources for the FISC workshop: Google Colab, brief PDF, and usage notice.
+* **Inventory agent for a private client (MART Automations)** — worked on a pilot that lets a team report stock movements by text or voice in Telegram, consult a shared inventory, and request summaries. It connects conversational input to a structured record with checks before changes are accepted. The client system and source repository are private.
 
 ### 📫 Let's connect
 
