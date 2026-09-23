@@ -36,16 +36,16 @@
 
 ### 🎤 Talks and workshops
 
-The part I like most. Materials are public.
-
-All the material lives in one place: **[rtovardev/talks](https://github.com/rtovardev/talks)**.
+The part I like most: turning AI engineering into practical workshops. I publish
+only the resources intended for attendees. Slide decks, speaker notes, and source
+materials may remain private.
 
 | When | What | Where |
 |---|---|---|
-| Aug 2026 | [Introductory AI workshop](https://github.com/rtovardev/talks/tree/main/innovatech-ieee-workshop) | IEEE InnovaTech Congress, Universidad Interamericana de Panamá |
-| Jul 2026 | [*From chatbot to personal assistant*](https://github.com/rtovardev/talks/tree/main/ia-education-program) | FISC, UTP — for a delegation from Universidad Peruana de Ciencias Aplicadas |
-| Jun 2026 | [Build your first agent with LangChain](https://github.com/rtovardev/talks/tree/main/eurusconf-langchain) | EurusConf 2026, Python Edition |
-| Jun 2026 | [Prompting and agent design](https://github.com/rtovardev/talks/tree/main/utp-workshop) | Universidad Tecnológica de Panamá |
+| Sep 2026 | [Build AI agents with Pydantic AI](https://github.com/rtovardev/taller-agentes-pydantic-ai-fisc-2026) | FISC AI Agents Hackathon, UTP |
+
+Workshop resources are copyrighted and licensed for the use described in each
+repository. Please do not redistribute, modify, or reuse them without permission.
 
 ### 🚀 Projects
 
@@ -53,7 +53,7 @@ All the material lives in one place: **[rtovardev/talks](https://github.com/rtov
 * **[FinWise](https://github.com/rtovardev/finwise)** — FastAPI + Gradio for querying financial PDFs in natural language. Full RAG pipeline with semantic chunking, FAISS indexing and source-referenced answers.
 * **[rtovar-aios](https://github.com/rtovardev/rtovar-aios)** — a template for students who want to run their own AI operating system. MIT.
 * **[aios-control-panel](https://github.com/rtovardev/aios-control-panel)** — a local-first, read-only dashboard over an AI operating system: memory graph, agents, assistants and operations. Vite + TypeScript with a Python backend.
-* **[talks](https://github.com/rtovardev/talks)** — every workshop I've given, open: slides, exercise code and handouts.
+* **[taller-agentes-pydantic-ai-fisc-2026](https://github.com/rtovardev/taller-agentes-pydantic-ai-fisc-2026)** — public attendee resources for the FISC workshop: Google Colab, brief PDF, and usage notice.
 
 ### 📫 Let's connect
 
