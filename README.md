@@ -28,8 +28,6 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-191919?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
   <br>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
@@ -71,11 +69,10 @@ granted for older CC BY 4.0 versions remain in effect for those versions.
 
 ### 🚀 Projects
 
-* **[FinWise](https://github.com/rtovardev/finwise)** — FastAPI + Gradio for querying financial PDFs in natural language. Full RAG pipeline with semantic chunking, FAISS indexing and source-referenced answers.
 * **[rtovar-aios](https://github.com/rtovardev/rtovar-aios)** — a template for students who want to run their own AI operating system. MIT. Used in the CONTECS workshop.
-* **Proposal agent (MART Automations)** — internal agent that reviews the commercial context of an opportunity and prepares a diagnosis, technical scope, price estimate, and branded PDF proposal. The team reviews it in Slack before anything reaches a client. TypeScript, eve, PostgreSQL. In pilot; private.
+* **Proposal agent (MART Automations)** — internal agent that reviews the commercial context of an opportunity and prepares a diagnosis, technical scope, price estimate, and branded PDF proposal. The team reviews it in Slack before anything reaches a client. In pilot; private.
 * **Business operations agent (MART Automations)** — agent for inventory, catalog, quotes, purchase orders, and Word and PDF reports, with modular skills, monitoring, integrity checks, automated tests, and human approval. Python, Linux, Docker. Private.
-* **AI editorial system for the Caja de Seguro Social de Panamá** — selected among 360 applicants, I designed and deployed it to production in four hours. It classifies topics, recommends audience, channel, and format, and drafts pieces for human sign-off. Next.js, TypeScript, PostgreSQL. Owned by the CSS.
+* **AI editorial system for the Caja de Seguro Social de Panamá** — selected among 360 applicants, I designed and deployed it to production in four hours. It classifies topics, recommends audience, channel, and format, and drafts pieces for human sign-off. Owned by the CSS.
 
 ### 📫 Let's connect
 
